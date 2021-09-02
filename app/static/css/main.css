@@ -1,0 +1,30 @@
+html {
+    font-size: 80%;
+}
+
+body {
+    --background-color: #ffffff;
+    --text-color: #000000;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#global {
+    min-height: 100%;
+}
+
+#main {
+    overflow: visible;
+}
+
+.jumbotron {
+    background-color: #dcddde;
+}
+
+.btn {
+    border-radius: 20px;
+}
